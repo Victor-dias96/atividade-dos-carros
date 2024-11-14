@@ -1,1 +1,2 @@
 # atividade-dos-carros
+Realize as instruções em Javascript que determine a seleção: pelos clique nos carros ou pelo clique nas cores do rodapé, acrescente o título da cor do carro no header, modifique a cor de fundo da página, acelere e desacelere, reduzindo e aumentando o carro conforme pressionar os botões e permita resetar quando o usuário quiser. Só lembrando que as funções de aceleração e desaceleração devem ser controladas também pelo teclado com as setas UP e Down.
